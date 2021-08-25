@@ -1,0 +1,8 @@
+{
+  "name": "revote",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CoffeeVictor/revote.git",
+  "author": "CoffeeVictor <victor@manifestohut.com.br>",
+  "license": "MIT"
+}
